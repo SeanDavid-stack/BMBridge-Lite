@@ -1,0 +1,26 @@
+# BMBridge Lite runtime artifacts
+bridge_lite_settings.json
+*.csv
+
+# Build artifacts
+build/
+dist/
+*.dist/
+*.onefile-build/
+*.build/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp

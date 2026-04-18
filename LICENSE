@@ -1,0 +1,201 @@
+BMBridge Lite End-User License Agreement
+==========================================
+
+Copyright (c) 2026 SDE-Software (SDES.DEV). All rights reserved.
+
+This is a proprietary software license agreement ("Agreement") between you
+("you" or "the user") and SDE-Software ("the Licensor"). It governs your use
+of the BMBridge Lite software, including the executable, accompanying
+documentation, icons, logos, graphics, text, structure, and any other
+artifacts distributed through this repository or any other authorized
+channel (collectively, "the Software").
+
+ALL RIGHTS ARE RESERVED. NO RIGHTS ARE GRANTED EXCEPT THOSE EXPLICITLY
+STATED IN SECTION 1 BELOW.
+
+
+1. STRICTLY LIMITED GRANT
+-------------------------
+Subject to your continuous compliance with every term of this Agreement,
+the Licensor grants you a revocable, non-exclusive, non-transferable,
+non-sublicensable, personal right to:
+
+  (a) download ONE copy of the Software from an official distribution
+      channel operated or authorized by the Licensor; and
+
+  (b) execute that copy of the Software on computers you personally own
+      or directly control, for your own personal or internal business use.
+
+This grant is a right of EXECUTION ONLY. No other rights are granted. The
+Software is licensed, not sold. Title, ownership, and all intellectual
+property rights in and to the Software remain at all times with the
+Licensor.
+
+
+2. PROHIBITED ACTIONS
+---------------------
+You may NOT, under any circumstances and without exception:
+
+  (a) COPY the Software or any portion of it, by any means, to any medium,
+      whether in original or modified form, except for the single
+      execution copy permitted under Section 1;
+
+  (b) REDISTRIBUTE, republish, re-host, mirror, upload, share, sell,
+      resell, lease, rent, sublicense, lend, or otherwise make the
+      Software or any part of it available to any third party, whether
+      for consideration or free of charge;
+
+  (c) MODIFY, adapt, translate, localize, port, or create derivative
+      works based on the Software, in whole or in part;
+
+  (d) REVERSE-ENGINEER, decompile, disassemble, extract, unpack, or
+      otherwise attempt to derive the source code, structure, algorithms,
+      or any underlying ideas or know-how of the Software, except and
+      only to the extent that this restriction is expressly prohibited by
+      applicable law;
+
+  (e) REPACKAGE, rebrand, relabel, wrap, bundle, or distribute the
+      Software under any name, mark, logo, or identity other than the
+      original Software as distributed by the Licensor;
+
+  (f) REUSE any part of the Software - including but not limited to its
+      code, binary, icon, logo, graphics, copy, layout, user-interface
+      design, file format, or documentation - in any other work, project,
+      product, service, tutorial, video, article, or publication;
+
+  (g) REMOVE, alter, hide, or obscure any copyright, trademark, license,
+      disclaimer, or other proprietary notice contained in or displayed
+      by the Software;
+
+  (h) USE the Software, or the results produced by the Software, in any
+      manner that violates applicable law or the terms of service of any
+      third-party product with which the Software interacts, including
+      but not limited to Bookmap, your broker, your exchange, or your
+      market data provider;
+
+  (i) CIRCUMVENT, disable, or tamper with any technical protection,
+      license check, single-instance lock, or security mechanism in the
+      Software;
+
+  (j) TRANSFER this license or your rights under it to any other person
+      or entity, whether by assignment, sale, gift, or operation of law.
+
+Any act falling within (a) through (j) is a material breach of this
+Agreement and an infringement of the Licensor's intellectual property
+rights. Legal and equitable remedies, including injunctive relief and
+monetary damages, are expressly reserved.
+
+
+3. NO OPEN-SOURCE LICENSE
+-------------------------
+The Software is NOT open-source software. The Software is NOT free
+software as defined by the Free Software Foundation or the Open Source
+Initiative. No license under the GNU General Public License, MIT License,
+Apache License, BSD License, Creative Commons, or any similar open or
+permissive license is granted, implied, or available.
+
+
+4. THIRD-PARTY NOTICES
+----------------------
+The Software is an independent third-party application developed by the
+Licensor. It is NOT affiliated with, endorsed by, sponsored by, or in any
+way connected to Bookmap Ltd., or any of its parent companies,
+subsidiaries, licensors, or affiliated entities. "Bookmap" is a trademark
+of Bookmap Ltd. and is referenced in the Software solely to describe
+software interoperability.
+
+
+5. NO WARRANTY
+--------------
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF
+ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE,
+ACCURACY, AND NON-INFRINGEMENT.
+
+THE LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE UNINTERRUPTED,
+ERROR-FREE, SECURE, OR FREE OF HARMFUL COMPONENTS, OR THAT ANY DEFECTS
+WILL BE CORRECTED. THE ENTIRE RISK ARISING OUT OF THE USE OR PERFORMANCE
+OF THE SOFTWARE REMAINS WITH YOU.
+
+
+6. NO LIABILITY
+---------------
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL THE
+LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED
+TO:
+
+  (a) lost profits, lost revenue, lost data, lost opportunity, or
+      business interruption;
+  (b) trading losses or decisions made based on notes or data displayed
+      by the Software;
+  (c) incorrect, missing, delayed, or misrendered note content;
+  (d) file corruption, permission errors, or disk issues;
+  (e) HTTP server failures, port conflicts, or polling interruptions;
+  (f) Bookmap rendering behavior, chart annotation display, or any
+      third-party integration;
+  (g) any other damages arising out of or in connection with the
+      Software or this Agreement,
+
+whether based on contract, tort, strict liability, or any other legal
+theory, even if the Licensor has been advised of the possibility of such
+damages.
+
+THE SOFTWARE IS A LOCAL NOTE FORMATTING AND SERVING TOOL. IT DOES NOT
+PROVIDE FINANCIAL ADVICE. ALL NOTES ARE USER-ENTERED AND INFORMATIONAL
+ONLY. YOU ARE SOLELY RESPONSIBLE FOR ANY TRADING DECISIONS YOU MAKE.
+
+
+7. NO SUPPORT
+-------------
+The Licensor provides NO support, walkthroughs, troubleshooting, bug
+fixes, updates, patches, or individual assistance for the Software.
+
+Neither Bookmap, Tom B, the Bookmap Discord channels, nor the Bookmap
+support team provide any support, assistance, or endorsement for the
+Software.
+
+Bugs and glitches may or may not be addressed at the sole discretion of
+the Licensor. No service-level agreement or update schedule is offered or
+implied.
+
+
+8. TERMINATION
+--------------
+This Agreement is effective until terminated. Your rights under this
+Agreement terminate automatically and without notice upon any breach of
+any term. Upon termination:
+
+  (a) you must immediately cease all use of the Software;
+  (b) you must delete every copy of the Software in your possession or
+      control, including execution copies, caches, backups, and any
+      derivatives (regardless of whether derivatives were permitted);
+  (c) Sections 2, 4, 5, 6, 7, 9, and 10 survive termination.
+
+
+9. GOVERNING LAW
+----------------
+This Agreement is governed by and construed in accordance with the laws
+of the jurisdiction in which the Licensor is organized, without regard to
+its conflict-of-laws principles. Any disputes arising out of or relating
+to this Agreement shall be brought exclusively in the courts of that
+jurisdiction, and you consent to the personal jurisdiction of those
+courts.
+
+
+10. ENTIRE AGREEMENT
+--------------------
+This Agreement constitutes the entire agreement between you and the
+Licensor regarding the Software and supersedes all prior or contempor-
+aneous communications, proposals, and representations, whether oral or
+written. No modification to this Agreement is effective unless signed in
+writing by the Licensor. If any provision of this Agreement is held
+unenforceable, that provision shall be modified to the minimum extent
+necessary to make it enforceable, and the remaining provisions shall
+remain in full force and effect.
+
+
+BY DOWNLOADING, INSTALLING, OR USING THE SOFTWARE, YOU ACKNOWLEDGE THAT
+YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THE TERMS OF THIS
+AGREEMENT. IF YOU DO NOT AGREE, DO NOT DOWNLOAD, INSTALL, OR USE THE
+SOFTWARE, AND DELETE ANY COPY YOU HAVE OBTAINED.

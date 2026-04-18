@@ -1,0 +1,9 @@
+* text=auto
+
+# Binary files — must NOT be touched by line-ending conversion
+*.pdf  binary
+*.png  binary
+*.jpg  binary
+*.ico  binary
+*.zip  binary
+*.exe  binary
