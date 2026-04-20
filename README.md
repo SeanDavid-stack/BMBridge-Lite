@@ -82,7 +82,7 @@ BMBridge Lite is an independent, third-party software application developed by S
 
 BMBridge Lite is provided **as-is** and is **used entirely at the user's own risk**. The developer accepts no liability for incorrect note content, file corruption, server failures, Bookmap rendering behavior, or any trading decisions made based on notes displayed by this application.
 
-**No support, walkthroughs, troubleshooting, or individual assistance is provided by SDES.DEV, Bookmap, Tom B, the Bookmap Discord channels, or the Bookmap support team.** Users are responsible for reading the included documentation and the official Bookmap Cloud Notes reference.
+**No support, walkthroughs, troubleshooting, or individual assistance is provided by SDES.DEV, Bookmap, the Bookmap Discord channels, or the Bookmap support team.** Users are responsible for reading the included documentation and the official Bookmap Cloud Notes reference.
 
 Bugs and glitches are addressed as identified. No service-level agreement is offered.
 
