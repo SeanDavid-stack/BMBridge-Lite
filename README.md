@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://sdes.dev"><img src="https://img.shields.io/badge/publisher-SDES.DEV-d4af37?style=flat-square" alt="SDES.DEV"/></a>
   <img src="https://img.shields.io/badge/platform-Windows-0078d4?style=flat-square" alt="Windows"/>
-  <img src="https://img.shields.io/badge/version-Lite%201.0-3b82f6?style=flat-square" alt="Version"/>
+  <img src="https://img.shields.io/badge/version-Lite%201.0.1-3b82f6?style=flat-square" alt="Version"/>
   <img src="https://img.shields.io/badge/license-Proprietary-ef4444?style=flat-square" alt="License"/>
 </p>
 
@@ -27,13 +27,18 @@ All notes are user-entered. The program does not source, import, or redistribute
 ## Features
 
 - Up to **2 concurrent feeds**, each on its own local HTTP port
-- **Custom notes** with description, price, text/background colors, alignment, and optional horizontal price line
-- **Color templates** - save and reuse color/text combinations across notes
+- **Custom notes** with description, strict-decimal price, text/background colors, alignment, and optional horizontal price line
+- **Color templates** — save and reuse color/text combinations. Templates are grouped into Colors-only and Colors+Text sections; names can be reused across sections
 - **Sort, reorder, clone, enable/disable** notes per feed
+- **Delete feeds** from the tab header — one feed minimum enforced
 - **Symbol override** per feed, or shared global symbol
-- **System tray integration** - minimize to tray and keep servers running in the background
-- **Single-instance** enforcement - only one copy can run at a time
-- **Atomic settings writes** - your notes and templates are preserved across sessions
+- **Live polling monitor** — per-feed *Last polled* timestamp plus tray-balloon toast if Bookmap stops polling for 2 minutes
+- **Runtime Broadcasting toggle** — start or stop a feed's server on demand while the app is live
+- **UI font size** — five presets, applies instantly
+- **System tray integration** — minimize to tray and keep servers running in the background
+- **Single-instance** enforcement — only one copy can run at a time
+- **Atomic settings writes, UTF-8 safe** — your notes and templates are preserved across sessions
+- **Tooltips everywhere** — hover any control for a short explanation
 
 ## Download
 
@@ -67,12 +72,9 @@ README.txt
 
 ## Known Issues
 
-See the User Manual for the current list. Summary:
+As of 1.0.1, no material known issues.
 
-- Broadcasting checkbox is inert while servers are running (stop/start cycle applies it).
-- Price-sort does not handle scientific notation (`1e5`). Use plain decimal.
-- No in-app feed deletion. Edit `bridge_lite_settings.json` to remove a feed.
-- No undo for sort/delete.
+Note that sort and delete operations have no undo — back up `bridge_lite_settings.json` before large reorganizations.
 
 ## Disclaimer
 
