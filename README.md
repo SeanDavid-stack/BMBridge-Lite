@@ -57,7 +57,7 @@ README.txt
 
 ## Installation
 
-1. Download the latest `BMBridge_Lite_vLite-1.0.zip` from Releases.
+1. Download the latest `BMBridge_Lite_vLite-1.0.1.zip` from Releases.
 2. Unzip to any folder with write access.
 3. Run `BMBridge_Lite.exe`.
 4. On first launch, Windows SmartScreen may show "Windows protected your PC" because the EXE is not code-signed. Click **More info** -> **Run anyway**.
