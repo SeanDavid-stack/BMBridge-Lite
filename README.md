@@ -78,11 +78,11 @@ Note that sort and delete operations have no undo — back up `bridge_lite_setti
 
 ## Disclaimer
 
-BMBridge Lite is an independent, third-party software application developed by SDE-Software (SDES.DEV). It is **not affiliated with, endorsed by, sponsored by, or in any way connected to Bookmap**, or any of its parent companies, subsidiaries, licensors, or affiliated entities. Bookmap is a trademark of Bookmap Ltd.
+BMBridge Lite is an independent, third-party software application developed by SDE-Software (SDES.DEV). **SDE-Software is not affiliated with, endorsed by, sponsored by, partnered with, or in any way connected to Bookmap, Bookmap Ltd., any of Bookmap's parent companies, subsidiaries, licensors, affiliated entities, the Bookmap Discord channels, or the Bookmap support team.** No formal or informal relationship exists between SDE-Software and any of the above parties. Bookmap is a trademark of Bookmap Ltd.
 
 BMBridge Lite is provided **as-is** and is **used entirely at the user's own risk**. The developer accepts no liability for incorrect note content, file corruption, server failures, Bookmap rendering behavior, or any trading decisions made based on notes displayed by this application.
 
-**No support, walkthroughs, troubleshooting, or individual assistance is provided by SDES.DEV, Bookmap, the Bookmap Discord channels, or the Bookmap support team.** Users are responsible for reading the included documentation and the official Bookmap Cloud Notes reference.
+**No support, walkthroughs, troubleshooting, or individual assistance is provided for this program by SDE-Software, by Bookmap, by the Bookmap Discord channels, or by the Bookmap support team.** Because SDE-Software has no affiliation with Bookmap or any Bookmap community, directing questions about this program to Bookmap or its community is not appropriate. Users are responsible for reading the included documentation and the official Bookmap Cloud Notes reference.
 
 Bugs and glitches are addressed as identified. No service-level agreement is offered.
 
